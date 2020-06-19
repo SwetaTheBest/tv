@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.sampletvinput.rich;
+package com.swetajain.android.sampletvinput.rich;
 
 import android.app.Activity;
 import android.os.Bundle;

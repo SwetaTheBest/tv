@@ -1,5 +1,5 @@
 
-package com.example.android.sampletvinput.rich;
+package com.swetajain.android.sampletvinput.rich;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -10,7 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.widget.TextView;
-import com.example.android.sampletvinput.R;
+import com.swetajain.android.sampletvinput.R;
 import com.google.android.media.tv.companionlibrary.model.Channel;
 import com.google.android.media.tv.companionlibrary.model.ModelUtils;
 import java.util.List;

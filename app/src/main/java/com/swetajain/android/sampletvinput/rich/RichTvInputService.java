@@ -1,5 +1,5 @@
 
-package com.example.android.sampletvinput.rich;
+package com.swetajain.android.sampletvinput.rich;
 
 import android.content.ComponentName;
 import android.content.Context;
@@ -20,10 +20,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.WindowManager;
 import android.view.accessibility.CaptioningManager;
-import com.example.android.sampletvinput.R;
-import com.example.android.sampletvinput.SampleJobService;
-import com.example.android.sampletvinput.player.DemoPlayer;
-import com.example.android.sampletvinput.player.RendererBuilderFactory;
+import com.swetajain.android.sampletvinput.R;
+import com.swetajain.android.sampletvinput.SampleJobService;
+import com.swetajain.android.sampletvinput.player.DemoPlayer;
+import com.swetajain.android.sampletvinput.player.RendererBuilderFactory;
 import com.google.android.exoplayer.ExoPlayer;
 import com.google.android.exoplayer.MediaFormat;
 import com.google.android.exoplayer.text.CaptionStyleCompat;

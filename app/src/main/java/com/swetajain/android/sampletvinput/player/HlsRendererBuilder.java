@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.sampletvinput.player;
+package com.swetajain.android.sampletvinput.player;
 
 import android.content.Context;
 import android.media.AudioManager;

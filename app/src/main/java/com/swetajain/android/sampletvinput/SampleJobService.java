@@ -13,11 +13,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.android.sampletvinput;
+package com.swetajain.android.sampletvinput;
 
 import android.media.tv.TvContract;
 import android.net.Uri;
-import com.example.android.sampletvinput.rich.RichFeedUtil;
+import com.swetajain.android.sampletvinput.rich.RichFeedUtil;
 import com.google.android.exoplayer.util.Util;
 import com.google.android.media.tv.companionlibrary.ads.EpgSyncWithAdsJobService;
 import com.google.android.media.tv.companionlibrary.model.Advertisement;

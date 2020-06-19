@@ -1,13 +1,13 @@
 
-package com.example.android.sampletvinput.rich;
+package com.swetajain.android.sampletvinput.rich;
 
 import android.graphics.drawable.Drawable;
 import android.media.tv.TvInputInfo;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v17.leanback.widget.GuidanceStylist.Guidance;
-import com.example.android.sampletvinput.R;
-import com.example.android.sampletvinput.SampleJobService;
+import com.swetajain.android.sampletvinput.R;
+import com.swetajain.android.sampletvinput.SampleJobService;
 import com.google.android.media.tv.companionlibrary.setup.ChannelSetupStepFragment;
 
 /**

@@ -12,7 +12,7 @@
  * the License.
  */
 
-package com.example.android.sampletvinput;
+package com.swetajain.android.sampletvinput;
 
 import android.app.Fragment;
 import android.os.Bundle;
